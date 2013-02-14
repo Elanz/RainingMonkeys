@@ -1,11 +1,11 @@
-OpenGLTutorial-part-4
+Raining Monkeys
 =====================
 
-Companion project to the fourth article in my OpenGL tutorial series
+This project is a simple app which puts all the concepts from my OpenGL tutorials together into a single app, it randomly spawns and animated tinted monkey sprites.
 
 The article explaining this code is here:
 
-http://www.200monkeys.com/index.php/2013/02/12/opengl-es-2-0-tutorial-textures/
+http://www.200monkeys.com/index.php/2013/02/14/its-raining-monkeys/
 
 This is free and unencumbered software released into the public domain.
 
